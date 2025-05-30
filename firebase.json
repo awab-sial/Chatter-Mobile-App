@@ -1,0 +1,22 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "chatter-838e2",
+                    "appId": "1:373714800772:android:d65ed5a32a2e739852f2d1",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "chatter-838e2",
+                    "configurations": {
+                        "android": "1:373714800772:android:d65ed5a32a2e739852f2d1",
+                        "web": "1:373714800772:web:72d13790d71f4ba652f2d1"
+                    }
+                }
+            }
+        }
+    }
+}
