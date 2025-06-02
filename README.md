@@ -114,7 +114,7 @@ This project is developed strictly for academic purposes as part of the **Mobile
 
 ## 🙌 Acknowledgments
 
-* **Instructor:** Sir Qazi Mohsin | Sir Mohsin Javed Butt
+* **Instructor:** Sir Qazi Mohsin Ijaz (Theory) | Sir Mohsin Javed Butt (Lab)
 * **Submitted By:**
 
   * Muhammad Awab Sial
